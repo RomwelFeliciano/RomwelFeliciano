@@ -1,3 +1,9 @@
+# 👋 Hi there, I'm Romwel!
+
+## 🌐 About Me
+- 💻 Web Developer with 2 years of experience in building responsive and user-friendly websites.
+- 🎨 Passionate about creating clean, efficient code and beautiful user interfaces.
+- 🌱 Currently learning typescript.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/romwel-feliciano-576164218/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rrfeliciano18@gmail.com) 
